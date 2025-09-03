@@ -9,7 +9,7 @@ include "includes/common.php"
         <title>Mobile | E-Store.com</title>
         <link rel="shortcut icon" href="img\srtcticon.png" type="image/png">
         
-    <meta charset="UTF-8">
+    <meta chaBDTet="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <link href="css/bootstrap.css" rel="stylesheet">
@@ -90,7 +90,7 @@ include "includes/common.php"
                                 <img src="./img/iphonex.png" alt="iphone x" >
                                     <div class="caption">
                                         <h3>iPhone X</h3>
-                                        <p>Price: Rs. 36000.00 </p>
+                                        <p>Price: BDT. 36000.00 </p>
                                                 <?php if (!isset($_SESSION['email'])) { ?>
                                             <p><a href= "#" data-toggle="modal" data-target="#loginmodal" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                                 <?php
@@ -114,7 +114,7 @@ include "includes/common.php"
                                 <img src="./img/samsungs8.png" alt="samsung s8 plus">
                                     <div class="caption">
                                         <h3>Galaxy S8 PLUS</h3>
-                                            <p>Price: Rs. 36000.00 </p>
+                                            <p>Price: BDT. 36000.00 </p>
                                                 <?php if (!isset($_SESSION['email'])) { ?>
                                             <p><a href= "#" data-toggle="modal" data-target="#loginmodal"  role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                                 <?php
@@ -138,7 +138,7 @@ include "includes/common.php"
                             <img src="./img/op5t.png" alt="oneplus 5t">
                                 <div class="caption">
                                     <h3>OnePlus 5T</h3>
-                                        <p>Price: Rs. 36000.00 </p>
+                                        <p>Price: BDT. 36000.00 </p>
                                                 <?php if (!isset($_SESSION['email'])) { ?>
                                             <p><a href= "#" data-toggle="modal" data-target="#loginmodal"  role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                                 <?php
@@ -162,7 +162,7 @@ include "includes/common.php"
                             <img src="./img/mimix2.png" alt="mi mix 2">
                                 <div class="caption">
                                     <h3>Mi Mix 2</h3>
-                                        <p>Price: Rs. 36000.00 </p>
+                                        <p>Price: BDT. 36000.00 </p>
                                                 <?php if (!isset($_SESSION['email'])) { ?>
                                             <p><a href= "#" data-toggle="modal" data-target="#loginmodal"  role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                                 <?php
@@ -195,7 +195,7 @@ include "includes/common.php"
                                 <img src="./img/iphonex.png" alt="iphone x" >
                                     <div class="caption">
                                         <h3>iPhone X</h3>
-                                        <p>Price: Rs. 88000.00 </p>
+                                        <p>Price: BDT. 88000.00 </p>
                                                 <?php if (!isset($_SESSION['email'])) { ?>
                                             <p><a href= "#" data-toggle="modal" data-target="#loginmodal"  role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                                 <?php
@@ -219,7 +219,7 @@ include "includes/common.php"
                                 <img src="./img/ipnone7plus.png" alt="ipnone 7 plus">
                                     <div class="caption">
                                         <h3>iPhone 7 PLUS</h3>
-                                            <p>Price: Rs. 69000.00 </p>
+                                            <p>Price: BDT. 69000.00 </p>
                                                 <?php if (!isset($_SESSION['email'])) { ?>
                                             <p><a href= "#" data-toggle="modal" data-target="#loginmodal"  role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                                 <?php
@@ -243,7 +243,7 @@ include "includes/common.php"
                             <img src="./img/iphone7.png" alt="iphone 7">
                                 <div class="caption">
                                     <h3>iPhone 7</h3>
-                                        <p>Price: Rs. 60000.00 </p>
+                                        <p>Price: BDT. 60000.00 </p>
                                                 <?php if (!isset($_SESSION['email'])) { ?>
                                             <p><a href= "#" data-toggle="modal" data-target="#loginmodal"  role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                                 <?php
@@ -267,7 +267,7 @@ include "includes/common.php"
                             <img src="./img/iphone6splus.png" alt="iphone 6s plus">
                                 <div class="caption">
                                     <h3>iPhone 6S PLUS</h3>
-                                        <p>Price: Rs. 40000.00 </p>
+                                        <p>Price: BDT. 40000.00 </p>
                                                 <?php if (!isset($_SESSION['email'])) { ?>
                                             <p><a href= "#" data-toggle="modal" data-target="#loginmodal"  role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                                 <?php
@@ -300,7 +300,7 @@ include "includes/common.php"
                                 <img src="./img/samsungs8.png" alt="galaxy s8 plus" >
                                     <div class="caption">
                                         <h3>Samsung Galaxy S8 PLUS</h3>
-                                        <p>Price: Rs. 65000.00 </p>
+                                        <p>Price: BDT. 65000.00 </p>
                                                 <?php if (!isset($_SESSION['email'])) { ?>
                                             <p><a href= "#" data-toggle="modal" data-target="#loginmodal"  role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                                 <?php
@@ -324,7 +324,7 @@ include "includes/common.php"
                                 <img src="./img/samsungnote8plus.png" alt="note 8 plus">
                                     <div class="caption">
                                         <h3>Samsung Galaxy Note 8 PLUS</h3>
-                                            <p>Price: Rs. 60000.00 </p>
+                                            <p>Price: BDT. 60000.00 </p>
                                                 <?php if (!isset($_SESSION['email'])) { ?>
                                             <p><a href= "#" data-toggle="modal" data-target="#loginmodal"  role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                                 <?php
@@ -348,7 +348,7 @@ include "includes/common.php"
                             <img src="./img/samsungs7edge.png" alt="galaxy s7 edge">
                                 <div class="caption">
                                     <h3>Samsung Galaxy S7 EDGE</h3>
-                                        <p>Price: Rs. 45000.00 </p>
+                                        <p>Price: BDT. 45000.00 </p>
                                                 <?php if (!isset($_SESSION['email'])) { ?>
                                             <p><a href= "#" data-toggle="modal" data-target="#loginmodal"  role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                                 <?php
@@ -372,7 +372,7 @@ include "includes/common.php"
                             <img src="./img/samsunga8.png" alt="galaxy a8">
                                 <div class="caption">
                                     <h3>Samsung Galaxy A8</h3>
-                                        <p>Price: Rs. 35000.00 </p>
+                                        <p>Price: BDT. 35000.00 </p>
                                                 <?php if (!isset($_SESSION['email'])) { ?>
                                             <p><a href= "#" data-toggle="modal" data-target="#loginmodal"  role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                                 <?php
@@ -405,7 +405,7 @@ include "includes/common.php"
                                 <img src="./img/op5t.png" alt="oneplus 5t" >
                                     <div class="caption">
                                         <h3>OnePlus 5T</h3>
-                                        <p>Price: Rs. 36000.00 </p>
+                                        <p>Price: BDT. 36000.00 </p>
                                                 <?php if (!isset($_SESSION['email'])) { ?>
                                             <p><a href= "#" data-toggle="modal" data-target="#loginmodal"  role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                                 <?php
@@ -429,7 +429,7 @@ include "includes/common.php"
                                 <img src="./img/op5.png" alt="oneplus 5">
                                     <div class="caption">
                                         <h3>OnePlus 5</h3>
-                                            <p>Price: Rs. 34000.00 </p>
+                                            <p>Price: BDT. 34000.00 </p>
                                                 <?php if (!isset($_SESSION['email'])) { ?>
                                             <p><a href= "#" data-toggle="modal" data-target="#loginmodal"  role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                                 <?php
@@ -453,7 +453,7 @@ include "includes/common.php"
                             <img src="./img/op3t.png" alt="oneplus 3t">
                                 <div class="caption">
                                     <h3>OnePlus 3T</h3>
-                                        <p>Price: Rs. 31000.00 </p>
+                                        <p>Price: BDT. 31000.00 </p>
                                                 <?php if (!isset($_SESSION['email'])) { ?>
                                             <p><a href= "#" data-toggle="modal" data-target="#loginmodal"  role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                                 <?php
@@ -477,7 +477,7 @@ include "includes/common.php"
                             <img src="./img/op3.png" alt="oneplus 3">
                                 <div class="caption">
                                     <h3>OnePlus 3</h3>
-                                        <p>Price: Rs. 28000.00 </p>
+                                        <p>Price: BDT. 28000.00 </p>
                                                 <?php if (!isset($_SESSION['email'])) { ?>
                                             <p><a href= "#" data-toggle="modal" data-target="#loginmodal"  role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                                 <?php
@@ -510,7 +510,7 @@ include "includes/common.php"
                                 <img src="./img/mimix2.png" alt="mi mix2" >
                                     <div class="caption">
                                         <h3>Mi Mix 2</h3>
-                                        <p>Price: Rs. 36000.00 </p>
+                                        <p>Price: BDT. 36000.00 </p>
                                                 <?php if (!isset($_SESSION['email'])) { ?>
                                             <p><a href= "#" data-toggle="modal" data-target="#loginmodal"  role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                                 <?php
@@ -534,7 +534,7 @@ include "includes/common.php"
                                 <img src="./img/mimax2.png" alt="mi max 2">
                                     <div class="caption">
                                         <h3>Mi Max 2</h3>
-                                            <p>Price: Rs. 16000.00 </p>
+                                            <p>Price: BDT. 16000.00 </p>
                                                 <?php if (!isset($_SESSION['email'])) { ?>
                                             <p><a href= "#" data-toggle="modal" data-target="#loginmodal"  role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                                 <?php
@@ -558,7 +558,7 @@ include "includes/common.php"
                             <img src="./img/mia1.png" alt="mi a1">
                                 <div class="caption">
                                     <h3>Mi A1</h3>
-                                        <p>Price: Rs. 15000.00 </p>
+                                        <p>Price: BDT. 15000.00 </p>
                                                 <?php if (!isset($_SESSION['email'])) { ?>
                                             <p><a href= "#" data-toggle="modal" data-target="#loginmodal"  role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                                 <?php
@@ -582,7 +582,7 @@ include "includes/common.php"
                             <img src="./img/redminote4.png" alt="redmi note 4">
                                 <div class="caption">
                                     <h3>Redmi Note 4</h3>
-                                        <p>Price: Rs. 13000.00 </p>
+                                        <p>Price: BDT. 13000.00 </p>
                                                 <?php if (!isset($_SESSION['email'])) { ?>
                                             <p><a href= "#" data-toggle="modal" data-target="#loginmodal"  role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                                 <?php
