@@ -35,7 +35,7 @@ include "includes/common.php"
     <div class="container">
         <!-- Jumbotron Header -->
             <div class="jumbotron home-spacer" id="products-jumbotron">
-                <center><h1>Welcome to our E-Store</h1>
+                <center><h1>Welcome to our MobileMart BD</h1>
                 <p>We have the best Mobile phone from Biggest Brands for you. No need to hunt around, we have all in one place.</p>
               </center>
             </div>
